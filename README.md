@@ -26,7 +26,7 @@ Through the use of ".localStorage" it is possible to view the content of the las
 ### Links
 
 - Repository URL: [https://github.com/lucavergallo/To-do-list](https://github.com/lucavergallo/To-do-list)
-- Live Site URL: [https://counter-luca-vergallo.netlify.app/](https://counter-luca-vergallo.netlify.app/)
+- Live Site URL: [https://to-do-list-luca-vergallo.netlify.app/](https://to-do-list-luca-vergallo.netlify.app/)
 
 ## My process
 
